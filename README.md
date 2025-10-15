@@ -1,4 +1,4 @@
 # Receitas
 Este site te leva para aprender receitas
 ## link de acesso
-https://receitas.globo.com/
+https://github.com/julia-oliveira22/Receitas
